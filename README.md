@@ -25,6 +25,12 @@ The company wants to know:
 The management desires to use this understanding to see how exactly the demands vary with different features and update its  business strategy to meet the demand levels and customer's expectations and thus improve its quality of service and profit margin.
 
 
+### Solution: A jupyter notebook BikeSharing.ipynb that covers the following
+- Reading and Understanding the data
+- Visualising the Data
+- Data Preparation
+- Model building and evaluation
+
 ## Technologies Used
 - numpy
 - pandas
