@@ -49,6 +49,6 @@ The management desires to use this understanding to see how exactly the demands 
 - For the model with 9 variables, the r-squared on training and test data is about **82.5% and 79.68%** respectively. The adjusted r-squared on the train set is about is about **82% and 78.7%**.
 
 
-## Note: Answers to Linear+Regression+Subjective+Questions is submitted as LinearRegressionSubjectiveAnswers.pdf
+### Note: Answers to Linear+Regression+Subjective+Questions is submitted as LinearRegressionSubjectiveAnswers.pdf
 ## Acknowledgements
 This project suggested as part of the IIT-B /Upgrad EDG Program
