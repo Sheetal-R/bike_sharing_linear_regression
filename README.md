@@ -44,9 +44,9 @@ The management desires to use this understanding to see how exactly the demands 
 ## Conclusions
 
 ### Summarization
-- All the VIF values and p-values seem to be in the permissible range now. Also the `Adjusted R-squared` value has dropped from `82.5%` with **10 variables** to just `82.1%` using **9 variables**. This model is explaining most of the variance without being too complex. So let's proceed with this model.
+- All the VIF values and p-values seem to be in the permissible range now. Also the `Adjusted R-squared` value has dropped from `82.5%` with **10 variables** to just `82%` using **9 variables**. This model is explaining most of the variance without being too complex.
 - In residual analysis using normal distribution, The error terms are fairly normally distributed and we can surely live with this. Let's now make predictions on the test-set.
-- For the model with 9 variables, the r-squared on training and test data is about 82.5% and 79.68% respectively. The adjusted r-squared on the train set is about is about 82.1%.
+- For the model with 9 variables, the r-squared on training and test data is about **82.5% and 79.68%** respectively. The adjusted r-squared on the train set is about is about **82% and 78.7%**.
 
 ## Acknowledgements
 This project suggested as part of the IIT-B /Upgrad EDG Program
